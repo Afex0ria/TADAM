@@ -6,3 +6,4 @@ Telegram-бот DataHub ВУЗов РК — каталог всех 106 унив
 # Timeline (Ссылка)
 https://www.canva.com/design/DAG6ofI14SQ/U2EoYpqinNpS99G0nngykg/edit?utm_content=DAG6ofI14SQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
+# Код от телеграмм бота DataHub ВУЗов РК
